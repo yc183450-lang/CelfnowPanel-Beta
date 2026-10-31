@@ -1,6 +1,6 @@
 # Celfnow Panel · 橙风面板
 
-给 Minecraft 服务器用的 Windows 桌面管理面板。
+给 Minecraft 服务器用的桌面管理面板。
 即开即用，不依赖网页，内存占用低。
 
 用户交流群:1129932511
